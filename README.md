@@ -21,3 +21,4 @@ function testCtrl($scope, calculateDistance){
 	alert( calculateDistance.calculate() );
 }
 ```
+
